@@ -1,0 +1,12 @@
+# Site settings
+title: Dollar Smart San Diego Title Loans
+email: titleloans@irelay.me
+description: "This site is about the who where's how's what's and whatever else we can do to help you get the cash that you need or want, for whatever reason, as quickly and easily as possible. This, is what we do."
+baseurl: "https://titleloans.github.io"
+url: "http://titleloans.github.io/"
+twitter_username: titleloansinsandiego
+github_username:  titleloans
+
+# Build settings
+markdown: kramdown
+permalink: pretty
